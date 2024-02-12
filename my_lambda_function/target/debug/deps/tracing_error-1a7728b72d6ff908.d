@@ -1,0 +1,10 @@
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester 2\Cloud\ds655_ids721_miniproject02\my_lambda_function\target\debug\deps\libtracing_error-1a7728b72d6ff908.rmeta: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-error-0.1.2\src\lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-error-0.1.2\src\backtrace.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-error-0.1.2\src\error.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-error-0.1.2\src\layer.rs
+
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester 2\Cloud\ds655_ids721_miniproject02\my_lambda_function\target\debug\deps\libtracing_error-1a7728b72d6ff908.rlib: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-error-0.1.2\src\lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-error-0.1.2\src\backtrace.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-error-0.1.2\src\error.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-error-0.1.2\src\layer.rs
+
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester 2\Cloud\ds655_ids721_miniproject02\my_lambda_function\target\debug\deps\tracing_error-1a7728b72d6ff908.d: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-error-0.1.2\src\lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-error-0.1.2\src\backtrace.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-error-0.1.2\src\error.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-error-0.1.2\src\layer.rs
+
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-error-0.1.2\src\lib.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-error-0.1.2\src\backtrace.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-error-0.1.2\src\error.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-error-0.1.2\src\layer.rs:

@@ -1,0 +1,1 @@
+fn(CustomEvent, lambda_runtime::Context) -> impl Future<Output = Result<CustomOutput, Box<(dyn StdError + Send + Sync + 'static)>>> {my_handler}

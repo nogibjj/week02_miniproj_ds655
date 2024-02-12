@@ -1,30 +1,33 @@
-use lambda_runtime::{error::HandlerError, lambda, Context};
+use lambda_runtime::{Context, Error, Handler};
+use lambda_runtime::handler_fn;
 use serde_derive::{Deserialize, Serialize};
-use std::error::Error;
+use std::future::Future;
+use std::pin::Pin;
 
 #[derive(Deserialize, Clone)]
-struct CustomEvent {
+pub struct CustomEvent {
     #[serde(rename = "firstName")]
     first_name: String,
 }
 
 #[derive(Serialize, Clone)]
-struct CustomOutput {
+pub struct CustomOutput {
     message: String,
 }
 
-fn main() -> Result<(), Box<dyn Error>> {
-    lambda!(my_handler);
-
-    Ok(())
-}
-
-fn my_handler(e: CustomEvent, _c: Context) -> Result<CustomOutput, HandlerError> {
-    if e.first_name == "" {
-        return Err(HandlerError::from("Missing first name"));
+async fn my_handler(e: CustomEvent, _c: Context) -> Result<CustomOutput, Error> {
+    if e.first_name.is_empty() {
+        return Err(Error::from("Missing first name"));
     }
 
     Ok(CustomOutput {
         message: format!("Hello, {}!", e.first_name),
     })
-}cargo install cross
+}
+
+#[tokio::main]
+async fn main() -> Result<(), Error> {
+    let handler = handler_fn(my_handler);
+    lambda_runtime::run(handler).await?;
+    Ok(())
+}
