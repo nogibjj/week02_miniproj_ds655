@@ -1,0 +1,10 @@
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester 2\Cloud\ds655_ids721_miniproject02\my_lambda_function\target\release\deps\libasync_stream-787daedf6d9ca0ae.rmeta: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\async_stream.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\next.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\yielder.rs
+
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester 2\Cloud\ds655_ids721_miniproject02\my_lambda_function\target\release\deps\libasync_stream-787daedf6d9ca0ae.rlib: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\async_stream.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\next.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\yielder.rs
+
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester 2\Cloud\ds655_ids721_miniproject02\my_lambda_function\target\release\deps\async_stream-787daedf6d9ca0ae.d: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\async_stream.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\next.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\yielder.rs
+
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\lib.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\async_stream.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\next.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-stream-0.3.5\src\yielder.rs:

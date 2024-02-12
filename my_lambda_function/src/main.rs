@@ -1,8 +1,6 @@
-use lambda_runtime::{Context, Error, Handler};
+use lambda_runtime::{Context, Error};
 use lambda_runtime::handler_fn;
 use serde_derive::{Deserialize, Serialize};
-use std::future::Future;
-use std::pin::Pin;
 
 #[derive(Deserialize, Clone)]
 pub struct CustomEvent {
