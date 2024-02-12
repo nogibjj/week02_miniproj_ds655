@@ -29,8 +29,6 @@ This project is a Rust application that is designed to run on AWS Lambda. It tak
     ./my_lambda_function
     ```
 
-    Replace `my_lambda_function` with the name of your compiled Rust application.
-
     Make the `bootstrap` file executable:
 
     ```bash
@@ -52,8 +50,6 @@ This project is a Rust application that is designed to run on AWS Lambda. It tak
     ```bash
     aws lambda update-function-code --function-name my_lambda_function --zip-file fileb://rust.zip
     ```
-
-    Replace `my_lambda_function` with the name of your AWS Lambda function.
 
 ## Running the Application
 
