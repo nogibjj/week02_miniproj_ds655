@@ -1,2 +1,4 @@
 #!/bin/sh
-./my_lambda_function.exe
+echo "Starting bootstrap"
+./my_lambda_function
+echo "Bootstrap ended with exit code $?"
