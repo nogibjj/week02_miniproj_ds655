@@ -1,5 +1,5 @@
-/target/release/build/httparse-fd3fa093e5761c4f/build_script_build-fd3fa093e5761c4f: /cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/build.rs
+/workspaces/week02_miniproj_ds655/my_lambda_function/target/release/build/httparse-fd3fa093e5761c4f/build_script_build-fd3fa093e5761c4f: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/build.rs
 
-/target/release/build/httparse-fd3fa093e5761c4f/build_script_build-fd3fa093e5761c4f.d: /cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/build.rs
+/workspaces/week02_miniproj_ds655/my_lambda_function/target/release/build/httparse-fd3fa093e5761c4f/build_script_build-fd3fa093e5761c4f.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/build.rs
 
-/cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/build.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/build.rs:
