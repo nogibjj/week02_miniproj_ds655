@@ -1,2 +1,2 @@
 #!/bin/sh
-./my_lambda_function
+./my_lambda_function.exe
